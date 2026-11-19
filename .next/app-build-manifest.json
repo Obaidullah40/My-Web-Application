@@ -1,0 +1,85 @@
+{
+  "pages": {
+    "/admin/(panel)/invoices/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/invoices/page.js"
+    ],
+    "/admin/(panel)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/admin/(panel)/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/settings/page.js"
+    ],
+    "/admin/(panel)/payments/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/payments/page.js"
+    ],
+    "/admin/(panel)/invoices/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/invoices/[id]/page.js"
+    ],
+    "/admin/(print)/invoices/[id]/print/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(print)/invoices/[id]/print/page.js"
+    ],
+    "/admin/(print)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(print)/layout.js"
+    ],
+    "/admin/(panel)/clients/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/clients/page.js"
+    ],
+    "/admin/(panel)/projects/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/projects/[id]/page.js"
+    ],
+    "/admin/(panel)/projects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/projects/page.js"
+    ],
+    "/admin/(panel)/invoices/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/invoices/new/page.js"
+    ],
+    "/admin/(panel)/payments/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/payments/new/page.js"
+    ],
+    "/admin/(panel)/invoices/[id]/edit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/invoices/[id]/edit/page.js"
+    ],
+    "/admin/(panel)/projects/[id]/edit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/projects/[id]/edit/page.js"
+    ],
+    "/admin/(panel)/payments/[id]/edit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/admin/(panel)/payments/[id]/edit/page.js"
+    ]
+  }
+}

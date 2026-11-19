@@ -1,0 +1,9 @@
+{
+  "/admin/(panel)/invoices/page": "app/admin/(panel)/invoices/page.js",
+  "/admin/(print)/invoices/[id]/print/page": "app/admin/(print)/invoices/[id]/print/page.js",
+  "/admin/(panel)/invoices/[id]/page": "app/admin/(panel)/invoices/[id]/page.js",
+  "/admin/(panel)/projects/page": "app/admin/(panel)/projects/page.js",
+  "/admin/(panel)/projects/[id]/page": "app/admin/(panel)/projects/[id]/page.js",
+  "/admin/(panel)/clients/page": "app/admin/(panel)/clients/page.js",
+  "/admin/(panel)/projects/[id]/edit/page": "app/admin/(panel)/projects/[id]/edit/page.js"
+}
